@@ -1,2 +1,2 @@
-# .ping
-.ping
+# .hack
+    hack
